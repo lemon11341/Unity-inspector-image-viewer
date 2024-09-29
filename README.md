@@ -1,2 +1,3 @@
 # Unity-inspector-image-viewer
-Shows image component directly from the inspector (works on files in Project window)
+Preview image component directly from the inspector (works on files in Project window)
+No Need to Click on Each File!
