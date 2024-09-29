@@ -2,4 +2,4 @@
 Preview image component directly from the inspector (works on files in Project window)
 No Need to Click on Each File!
 
-Put the code file in the editor folder
+Put the "ImageDisplayEditor.cs" in the editor folder
